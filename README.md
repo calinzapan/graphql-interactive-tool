@@ -8,6 +8,8 @@ OdinQL is an interactive tool/framework meant to facilitate the communication wi
 
 **Coordinator:** Sabin Corneliu Buraga
 
+**Blog/Wiki:** Keep up with the project on our [blog](https://odinql.com)
+
 ## Arhitecture overview
 
 OdinQL's architecture consists of 3 layers: Presentation Layer, Business Layer and last but not least the Data Layer. For more details consult the [scholarly report](https://github.com/calinzapan/graphql-interactive-tool/tree/master/scholarly-report) living inside this repository.
@@ -16,9 +18,15 @@ OdinQL's architecture consists of 3 layers: Presentation Layer, Business Layer a
 
 ## Presentation Layer
 
-**Figma Prototype:**
+**Figma Prototype:** You can access our first Prototype [here](https://www.figma.com/proto/e3sD01MEH21OkrF2KRWBNL/OdinQL?page-id=0%3A1&node-id=5%3A3826&viewport=241%2C48%2C0.06&scaling=contain&starting-point-node-id=5%3A3826&fbclid=IwAR0XV3TihjQwaK9TmqOaGatztw-kj1NirPXskayWgT0cdZBSBqB7ipc4QY0)
 
-**Classes & Usecase diagrams:**
+A few things to keep in mind:
+
+1. Not all features work on these prototypes, the connections are made only for the scenarios listed above;
+2. Once you open a prototype, click on a random area to view the available hotspots. This is the only way to find the connection or available spots to click on.
+3. If you want to leave a comment, press the letter C on your keyboard.
+
+**Classes & Usecase diagrams:** To take a look at the architectural & usecase diagrams follow [this](https://www.figma.com/file/e3sD01MEH21OkrF2KRWBNL/Untitled?node-id=0%3A1)
 
 ## Business Layer
 
